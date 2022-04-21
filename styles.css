@@ -14,6 +14,9 @@ html {
 
 img {
     max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
 }
 
 header {
@@ -33,4 +36,13 @@ h1 {
     font-weight: 600;
     letter-spacing: 5px;
     font-size: 2.5rem;
+    padding-left: 10rem;
+}
+
+.home-selection {
+width: 1080px; height: 50em;
+background-image: url(./dev2/assets/UX-HTML-CSS/clay\ hands.jpg
+background-size: cover;
+background-position: center;
+position: relative;
 }
